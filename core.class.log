@@ -1,0 +1,290 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217791016635@s.whatsapp.net',
+    fromMe: false,
+    id: '7E2853A43E84068B828C7319383FBE7A',
+    participant: undefined
+  },
+  messageTimestamp: 1753395930,
+  pushName: 'Carlos',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '5217791016635'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e9f36db6-37c8-4f88-abf6-24e1f0475a74',
+  keyword: 'key_759ba9b3-fdd2-49ce-a636-9b848d84ed8e',
+  answer: '🤖 ¡Hola! Bienvenido al asistente virtual de *CAAMTH* 💧\n' +
+    'Estoy aquí para ayudarte.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f7a648a063a8efb03ebafbf288a78a26'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4d76b13c-9b6f-45c0-bba0-16f104ebf6a1',
+  keyword: 'ans_e9f36db6-37c8-4f88-abf6-24e1f0475a74',
+  answer: 'Por favor elige una opción escribiendo el número o palabra clave:\n' +
+    '\n' +
+    '1️⃣ *Reporte* de falla o fuga de agua\n' +
+    '2️⃣ *Solicitud* de nuevo servicio\n' +
+    '3️⃣ *Consulta* de saldo\n' +
+    '4️⃣ *Seguimiento* de un trámite o servicio\n' +
+    '5️⃣ *Otras* consultas o ayuda adicional',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '41cfd6429ec0ba8473f4f3ff7658a32e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217791016635@s.whatsapp.net',
+    fromMe: false,
+    id: '8009805C7EC4A9C7EB03414FE762FF46',
+    participant: undefined
+  },
+  messageTimestamp: 1753395930,
+  pushName: 'Carlos',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 86400,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '5217791016635'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217791016635@s.whatsapp.net',
+    fromMe: false,
+    id: 'A8CC8EF16DF0B6D3EC323017AFFFB964',
+    participant: undefined
+  },
+  messageTimestamp: 1753395932,
+  pushName: 'Carlos',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '1',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  from: '5217791016635'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217791016635@s.whatsapp.net',
+    fromMe: false,
+    id: '261D730B92199158B88F06F76A7B2EB6',
+    participant: undefined
+  },
+  messageTimestamp: 1753395932,
+  pushName: 'Carlos',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 86400,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '5217791016635'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217791016635@s.whatsapp.net',
+    fromMe: false,
+    id: '6A6C733309530A0367BAC0235CBC617D',
+    participant: undefined
+  },
+  messageTimestamp: 1753395938,
+  pushName: 'Carlos',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Domicilio',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Domicilio',
+  from: '5217791016635'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_12a5bfdf-9bc9-4bbd-8529-40616948180c',
+  keyword: 'ans_9db7f868-32be-4201-a606-9f2a94af60dc',
+  answer: '👍 Entendido. Ahora, por favor indícame:\n' +
+    '📍 Dirección exacta o una referencia del lugar.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '485000e2467f4395c5c5fce0a1f54bb0'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217791016635@s.whatsapp.net',
+    fromMe: false,
+    id: '8A7190019B1AB6252F6CDDBAB5C92222',
+    participant: undefined
+  },
+  messageTimestamp: 1753395938,
+  pushName: 'Carlos',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 86400,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '5217791016635'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217791016635@s.whatsapp.net',
+    fromMe: false,
+    id: '01FF7308D45B5C074192511B6CAB0F6D',
+    participant: undefined
+  },
+  messageTimestamp: 1753395946,
+  pushName: 'Carlos',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Calle siempre viva 143',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Calle siempre viva 143',
+  from: '5217791016635'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217791016635@s.whatsapp.net',
+    fromMe: false,
+    id: 'C248073A81CE7EB0915B36BADB7D3857',
+    participant: undefined
+  },
+  messageTimestamp: 1753395946,
+  pushName: 'Carlos',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 86400,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '5217791016635'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9db7f868-32be-4201-a606-9f2a94af60dc',
+  keyword: 'key_9768c57a-c921-4758-93ce-bf1f70fc4407',
+  answer: '🛠️ Has elegido *Reporte de falla o fuga de agua*.\n' +
+    '🚨 Puede indicar si la fuga es en su domicilio o en la vialidad \n' +
+    'Por favor solo escriba *domicilio* o *vialidad',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '0f5ebc209f5de9009cdc244f25a2308a'
+}
